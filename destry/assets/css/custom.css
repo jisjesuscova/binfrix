@@ -1,0 +1,15 @@
+.bg-light {
+    background-color: black !important;
+}
+
+.header-top-links > span {
+    color: white !important;
+}
+
+.header-top-links > a {
+    color: white !important;
+}
+
+.header-top-message {
+    color: white !important;
+}
